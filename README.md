@@ -7,3 +7,6 @@ Please leave the pin on the bottom right (the clock pin) unsoldered with the fem
 ![Haptic Glove PCB](https://github.com/user-attachments/assets/ef536309-a53f-4756-8661-c03f84677094)
 ![Haptic Glove controls](https://github.com/user-attachments/assets/a3605076-6c04-4606-bfcc-535352038483)
 ![Two Bloodroot LucidVR Gen 4 haptic gloves](https://github.com/user-attachments/assets/7ed85c4e-4340-4343-8c00-e0ca8aaea1b2)
+
+
+## [Soldering / Assembly Livestream series](https://www.youtube.com/playlist?list=PLSqzI4ldZf8ATcggPOzhnu4_hSjlQf3MI) 
