@@ -1,6 +1,8 @@
 # Bloodroot LucidVR Gen 4 Haptic Glove PCB
 A LucidVR Gen4 haptic glove variant which allows for modular part connections through female header pins
 
+[LocoaCola's Original Gen 4 LucidVR haptic Glove PCB](https://github.com/tsthedr/lucidvr-haptic-gen-4)
+
 **Known issue**
 Please leave the pin on the bottom right (the clock pin) unsoldered with the female header pins. Performance issues have been noticed when this pin is being used. Fix planned for the next revision.  
 
