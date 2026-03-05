@@ -13,4 +13,4 @@ Please leave the pin on the bottom right (the clock pin) unsoldered with the fem
 
 ## [Soldering / Assembly Livestream series](https://www.youtube.com/playlist?list=PLSqzI4ldZf8ATcggPOzhnu4_hSjlQf3MI) 
 
-## [The original LucidVR haptic Glove GitHub](https://github.com/LucidVR/lucidgloves?tab=readme-ov-file)
+## [The original LucidVR haptic glove GitHub](https://github.com/LucidVR/lucidgloves?tab=readme-ov-file)
