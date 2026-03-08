@@ -4,7 +4,7 @@ A LucidVR Gen4 haptic glove variant which allows for modular part connections th
 [LocoaCola's Original Gen 4 LucidVR haptic Glove PCB](https://github.com/tsthedr/lucidvr-haptic-gen-4)
 
 **Known issue**
-Please leave the pin on the bottom right os the ESP32 (the clock pin) unsoldered with the female header pins. Performance issues have been noticed when this pin is being used. Fix planned for the next revision.  
+Please leave the pin on the bottom right of the ESP32 (the clock pin) unsoldered with the female header pins. Performance issues have been noticed when this pin is being used. Fix planned for the next revision.  
 
 ![Haptic Glove PCB](https://github.com/user-attachments/assets/ef536309-a53f-4756-8661-c03f84677094)
 ![Haptic Glove controls](https://github.com/user-attachments/assets/a3605076-6c04-4606-bfcc-535352038483)
